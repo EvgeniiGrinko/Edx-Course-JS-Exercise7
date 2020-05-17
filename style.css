@@ -1,0 +1,37 @@
+img {
+    width: 450px;
+    max-height: 450px;
+    border-radius: 20px;
+    padding: 0px;
+    margin: 10px;
+    border-width: 8px;
+    border-color: grey;
+    border-style: double;
+    
+    vertical-align: bottom;
+
+}
+button {
+    width: 20;
+    height: 20;
+    background-color: lightseagreen;
+    padding: 5px;
+    font-size: 20pxm;
+    margin: 10px;
+    
+    
+    
+
+}
+h2{
+    text-align: center;
+    background-color: azure;
+    border: cadetblue;
+    border-radius: 3px;
+    border:  solid;
+}
+div{
+    background-color: snow;
+    
+
+}
